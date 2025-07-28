@@ -1,1 +1,1 @@
-![Alt text](output.png?raw=true "Probablistic PDF of V2")
+![Alt text](output.png?raw=true "Probablistic PDF")
